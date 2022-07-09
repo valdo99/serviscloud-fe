@@ -72,7 +72,6 @@ function ContactIcon({
 
 const MOCKDATA = [
   { title: 'Email', description: 'hello@serviscloud.al', icon: At },
-  { title: 'Phone', description: '+355 (800) 335 35 35', icon: Phone },
   { title: 'Address', description: '844 Shkoder', icon: MapPin },
   { title: 'Working hours', description: '8 a.m. - 11 p.m.', icon: Sun },
 ];
