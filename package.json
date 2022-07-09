@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^4.2.12",
+    "@mantine/dates": "^4.2.12",
+    "@mantine/form": "^4.2.12",
+    "@mantine/hooks": "^4.2.12",
+    "@mantine/modals": "^4.2.12",
+    "@mantine/next": "^4.2.12",
+    "@mantine/notifications": "^4.2.12",
+    "dayjs": "^1.11.3",
     "next": "12.2.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "tabler-icons-react": "^1.52.0"
   },
   "devDependencies": {
-    "eslint": "8.19.0",
-    "eslint-config-next": "12.2.1"
+    "eslint": "^8.19.0",
+    "eslint-config-next": "12.2.1",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1"
   }
 }
