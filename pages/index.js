@@ -1,9 +1,9 @@
-import { FooterSimple } from '../components/footers/FooterSimple';
-import LandingHeader from '../components/headers/LandingHeader';
-import ContactUs from '../sections/contactUs';
+import { FooterSimple } from '../components/footers/footer';
+import LandingHeader from '../components/headers/landing_header';
+import ContactUs from '../sections/contact';
 import FeaturesTitle from '../sections/features_with_title';
-import HeroFirst from '../sections/hero_first';
-import StatsGroup from '../sections/StatsGroup';
+import HeroFirst from '../sections/hero';
+import StatsGroup from '../sections/stats_group';
 
 export default function Home() {
   return (
