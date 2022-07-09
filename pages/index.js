@@ -1,3 +1,4 @@
+import { FooterSimple } from '../components/footers/FooterSimple';
 import LandingHeader from '../components/headers/LandingHeader';
 import ContactUs from '../sections/contactUs';
 import FeaturesTitle from '../sections/features_with_title';
@@ -12,6 +13,7 @@ export default function Home() {
       <FeaturesTitle />
       <StatsGroup />
       <ContactUs />
+      <FooterSimple />
     </div>
   );
 }
